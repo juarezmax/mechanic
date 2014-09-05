@@ -1,0 +1,5 @@
+# @title Close editors automatically
+# @description Sets 'REUSE_OPEN_EDITORS_BOOLEAN' to 'true'.
+# @task_type LASTMOD
+/instance/org.eclipse.ui.workbench/REUSE_OPEN_EDITORS_BOOLEAN=true
+file_export_version=3.0
