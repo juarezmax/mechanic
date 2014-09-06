@@ -1,0 +1,5 @@
+# @title Initially fold these elements: Comments
+# @description Sets 'editor_folding_default_javadoc' to 'true'.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/editor_folding_default_javadoc=true
