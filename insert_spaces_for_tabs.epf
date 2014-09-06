@@ -1,0 +1,5 @@
+# @title Insert spaces for tabs
+# @description Sets 'spacesForTabs' to 'true'.
+# @task_type LASTMOD
+/instance/org.eclipse.ui.editors/spacesForTabs=true
+file_export_version=3.0
