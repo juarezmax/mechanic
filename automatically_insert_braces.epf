@@ -1,0 +1,5 @@
+# @title Automatically insert at correct position: Braces
+# @description (Java > Editor > Typing) Sets 'smart_opening_brace' to 'true'.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/smart_opening_brace=true
