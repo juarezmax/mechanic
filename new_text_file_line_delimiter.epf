@@ -1,0 +1,5 @@
+# @title New text file line delimiter: Unix
+# @description (General > Workspace) Sets 'line.separator' to 'true'.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.core.runtime/line.separator=\n
