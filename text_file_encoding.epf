@@ -1,5 +1,5 @@
 # @title Text file encoding: UTF-8
 # @description (General > Workspace) Sets 'encoding' to 'UTF-8'
-# @task_type LASTMOD
+# @task_type RECONCILE
 /instance/org.eclipse.core.resources/encoding=UTF-8
 file_export_version=3.0

@@ -1,6 +1,6 @@
 # @title Bracket highlighting - Enclosing brackets.
 # @description (Java > Editor) Sets 'highlightBracketAtCaretLocation' and 'enclosingBrackets' to 'true'
-# @task_type LASTMOD
+# @task_type RECONCILE
 file_export_version=3.0
 /instance/org.eclipse.jdt.ui/highlightBracketAtCaretLocation=true
 /instance/org.eclipse.jdt.ui/enclosingBrackets=true

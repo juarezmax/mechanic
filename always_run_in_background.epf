@@ -1,5 +1,5 @@
 # @title Always run in background
 # @description Sets 'RUN_IN_BACKGROUND' preference to 'true'.
-# @task_type LASTMOD
+# @task_type RECONCILE
 file_export_version=3.0
 /instance/org.eclipse.ui.workbench/RUN_IN_BACKGROUND=true
