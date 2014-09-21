@@ -1,0 +1,5 @@
+# @title Automatically insert at correct position: Semicolons
+# @description Sets 'smart_semicolon' to 'true' for JavaScript Editor.
+# @task_type RECONCILE
+file_export_version=3.0
+/instance/org.eclipse.wst.jsdt.ui/smart_semicolon=true
