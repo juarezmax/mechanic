@@ -1,0 +1,5 @@
+# @title Always close unrelated project without prompt.
+# @description Sets 'CLOSE_UNRELATED_PROJECTS' to true.
+# @task_type RECONCILE
+file_export_version=3.0
+/instance/org.eclipse.ui.ide/CLOSE_UNRELATED_PROJECTS=true
