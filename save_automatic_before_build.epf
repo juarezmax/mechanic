@@ -1,0 +1,5 @@
+# @title Save automatically before build.
+# @description Sets 'SAVE_ALL_BEFORE_BUILD' to true.
+# @task_type RECONCILE
+file_export_version=3.0
+/instance/org.eclipse.ui.ide/SAVE_ALL_BEFORE_BUILD=true
